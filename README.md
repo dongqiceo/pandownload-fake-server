@@ -12,4 +12,4 @@ https://www.hostloc.com/thread-675311-1-1.html
 ```
 由于请求内有算法生成的bdc token，此方法的有效时间未知，且用且珍惜
 # 想说的话
-**F\*\*k Baidu**
+**Fuck Baidu**
